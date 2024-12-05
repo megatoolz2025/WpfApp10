@@ -1,0 +1,9 @@
+﻿<Page x:Class="OrderManagementSystem.DeliveryManagementPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Управление доставкой">
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <TextBlock Text="Управление доставкой" FontSize="24" FontWeight="Bold" />
+        <Button Content="Назад" Click="GoBack" Width="100" />
+    </StackPanel>
+</Page>
